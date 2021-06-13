@@ -4,20 +4,13 @@
 The purpose of this project is to present a business proposal for a bike-sharing company in De Moines. We are using CitiBike data from New York City in order to demonstrate its viability.
 
 ## Results
-*1. Customers*
-- This visualization shows that the vast majority of customers are subscribers. Subscribers provide a continuous revenue stream even when they are not using the bikes.
-*2. Average Trip Duration*
-- This visualization shows that the average trip duration increases as the age of the rider decreases. Looking at both this data and the census data from Des Moines showing a younger population, it shows that there is definitely a market for a bike sharing program.
-*3. Checkout Times*
-- Most bikes are checked out for less than an hour. This should pair well with the Des Moines smaller downtown and the bike paths along the river.
-*4. Checkout Times by Gender*
-- All three genders follow the same pattern as before. Even though Men make up the most of the bike rentals, all of the genders still primarily rent the bike for less than an hour.
-*5. Trips by Weekday*
-- The busiest times are during weekday commuting hours and during the day on the weekends.  
-*6. Trips by Weekday by Gender*
-- The trends from visualizaton #6 stay the same for all of the genders.
-*7. Trips by Weekday by Gender and Customer Type*
-- The visualization shows that male subsribers make up the bulk of the riders. Additionally, Wednesday appears to be a slower day compared to the other days of the week.
+*1. Customers*: This visualization shows that the vast majority of customers are subscribers. Subscribers provide a continuous revenue stream even when they are not using the bikes.<br><br>
+*2. Average Trip Duration*: This visualization shows that the average trip duration increases as the age of the rider decreases. Looking at both this data and the census data from Des Moines showing a younger population, it shows that there is definitely a market for a bike sharing program.<br><br>
+*3. Checkout Times*: Most bikes are checked out for less than an hour. This should pair well with the Des Moines smaller downtown and the bike paths along the river.<br><br>
+*4. Checkout Times by Gender*: All three genders follow the same pattern as before. Even though Men make up the most of the bike rentals, all of the genders still primarily rent the bike for less than an hour.<br><br>
+*5. Trips by Weekday*: The busiest times are during weekday commuting hours and during the day on the weekends.  <br><br>
+*6. Trips by Weekday by Gender*: The trends from visualizaton #6 stay the same for all of the genders.<br><br>
+*7. Trips by Weekday by Gender and Customer Type*<: The visualization shows that male subsribers make up the bulk of the riders. Additionally, Wednesday appears to be a slower day compared to the other days of the week.<br><br>
 
 ## Summary
 - The results show that the primary customer base is male subscibers. Additionally, riders tend to rent the bike for less than an hour and the peak times are weekday commuting hours and weekends during the day.
