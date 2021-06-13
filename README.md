@@ -3,6 +3,9 @@
 ## Overview of Project
 The purpose of this project is to present a business proposal for a bike-sharing company in De Moines. We are using CitiBike data from New York City in order to demonstrate its viability.
 
+## Tableau Story Link
+[Link to Dashboard](https://public.tableau.com/app/profile/spencer.r5534/viz/CitiBike_16235454069330/CitiBikeData "Link to Dashboard")
+
 ## Results
 *1. Customers*: This visualization shows that the vast majority of customers are subscribers. Subscribers provide a continuous revenue stream even when they are not using the bikes.<br><br>
 *2. Average Trip Duration*: This visualization shows that the average trip duration increases as the age of the rider decreases. Looking at both this data and the census data from Des Moines showing a younger population, it shows that there is definitely a market for a bike sharing program.<br><br>
